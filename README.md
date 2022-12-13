@@ -4,7 +4,7 @@
 
 Hogwarts Portal is a python program that simulates an aplication that allows users to access a academic-related enviroment: with  assigments such as tests, interaction with lists of materials chose by the teachers (**and also edit this materials if you are a teacher!**) and many more.
 
-### Video Demo:  <URL HERE>  
+### Video Demo:  https://youtu.be/-oAwYDjjGhA
 
 ------------  
 
